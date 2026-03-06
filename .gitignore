@@ -1,0 +1,12 @@
+.vs/
+**/Debug/
+**/Release/
+**/x64/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
