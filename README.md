@@ -84,14 +84,14 @@ Add your images under `docs/images/` with these filenames:
 
 Then they will render below in GitHub:
 
-### Figure 5.1: Main Menu
+### Figure 1: Main Menu
 
-![Figure 5.1 - Main Menu](docs/images/main-menu.png)
+![Figure 1 - Main Menu](docs/images/main-menu.png)
 
-### Figure 5.2: Gameplay
+### Figure 2: Gameplay
 
-![Figure 5.2 - Gameplay](docs/images/gameplay.png)
+![Figure 2 - Gameplay](docs/images/gameplay.png)
 
 ### Figure 5.3: Game Over
 
-![Figure 5.3 - Game Over](docs/images/game-over.png)
+![Figure 3 - Game Over](docs/images/game-over.png)
